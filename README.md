@@ -1,4 +1,4 @@
-# website
+# The boost website in this era.
 Public website for ITUGnu
 
 [![Build Status](https://travis-ci.org/itugnu/website.svg?branch=master)](https://travis-ci.org/itugnu/website)
